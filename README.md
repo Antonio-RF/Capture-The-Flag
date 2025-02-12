@@ -13,7 +13,7 @@ eu poder depositar todo o conteúdo que eu ache importante em relação a essas 
 IMPORTANTE: Esse repositório será atualizado de tempos em tempos, conforme eu for resolvendo mais e mais exercícios presentes nas plataformas, a fim de eu melhorar cada vez mais minhas habilidades no meio da programação. Então, isso 
 é um projeto duradouro que pretendo levar até o fim da minha graduação em Ciência da Computação.
 
-[Meu perfil da plataforma TryHackMe](https://tryhackme.com/p/antoniidaressurr)
+[Meu perfil da plataforma TryHackMe](https://tryhackme.com/p/Antonio.R.F)
 
 
 ## English:
@@ -23,4 +23,4 @@ about this hackers competitions.
 IMPORTANT: This repository will be updated from time to time as I solve more and more exercises available on the platforms, aiming to continuously improve my programming skills.
 Therefore, this is a long-term project that I intend to maintain until the end of my Computer Science degree.
 
-[My profile of TryHackMe platform](https://tryhackme.com/p/antoniidaressurr)
+[My profile of TryHackMe platform](https://tryhackme.com/p/Antonio.R.F)
