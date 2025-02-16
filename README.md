@@ -11,7 +11,7 @@ Captura à bandeira (também chamadas de Capture The Flag ou CTF) são competiç
 eu poder depositar todo o conteúdo que eu ache importante em relação a essas competições de hackers. 
 
 IMPORTANTE: Esse repositório será atualizado de tempos em tempos, conforme eu for resolvendo mais e mais exercícios presentes nas plataformas, a fim de eu melhorar cada vez mais minhas habilidades no meio da programação. Então, isso 
-é um projeto duradouro que pretendo levar até o fim da minha graduação em Ciência da Computação.
+é um projeto duradouro que pretendo levar até o fim da minha graduação em Ciência da Computação. 
 
 [Meu perfil da plataforma TryHackMe](https://tryhackme.com/p/Antonio.R.F)
 
