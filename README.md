@@ -14,6 +14,10 @@ IMPORTANTE: Esse repositório será atualizado de tempos em tempos, conforme eu 
 é um projeto duradouro que pretendo levar até o fim da minha graduação em Ciência da Computação. 
 
 [Meu perfil da plataforma TryHackMe](https://tryhackme.com/p/Antonio.R.F)
+</div>
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png" alt="Your Image Badge" />
+</div>
 
 
 ## English:
@@ -24,3 +28,7 @@ IMPORTANT: This repository will be updated from time to time as I solve more and
 Therefore, this is a long-term project that I intend to maintain until the end of my Computer Science degree.
 
 [My profile of TryHackMe platform](https://tryhackme.com/p/Antonio.R.F)
+</div>
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png" alt="Your Image Badge" />
+</div>
