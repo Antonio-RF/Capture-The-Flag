@@ -16,6 +16,7 @@ IMPORTANTE: Esse repositório será atualizado de tempos em tempos, conforme eu 
 [Meu perfil da plataforma TryHackMe](https://tryhackme.com/p/Antonio.R.F)
 </div>
 <div align="center">
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png" alt="Your Image Badge" />
 </div>
 
