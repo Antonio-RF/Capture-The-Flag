@@ -15,8 +15,9 @@ IMPORTANTE: Esse repositório será atualizado de tempos em tempos, conforme eu 
 
 [Meu perfil da plataforma TryHackMe](https://tryhackme.com/p/Antonio.R.F)
 </div>
-<div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png?timestamp=1700000001" alt="Your Image Badge" />
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png?timestamp=1700005000)
+
   
 </div>
 
@@ -30,8 +31,8 @@ Therefore, this is a long-term project that I intend to maintain until the end o
 
 [My profile of TryHackMe platform](https://tryhackme.com/p/Antonio.R.F)
 </div>
-<div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png?timestamp=1700000001" alt="Your Image Badge" />
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Antonio.R.F.png?timestamp=1700005000)
 
 
 
